@@ -1,19 +1,9 @@
-# Hey 👋, I'm Sukant Tekade
-# A passionate DEVOPS ENTHUSIAST from Nagpur
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNtcjA2bnF4Y3Azc3J1cWs2NzVwNDB2bW0zdHhjc3Nvbmwwb21leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="100"/>
+</div>
 
-- 🌱 I’m currently learning Devops Concepts and Tools , Amazon Web Services (AWS), Java Programming, Bash Scripting
 
-<!--
-**sukant-tekade/Sukant-Tekade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 id="header" align="center">
+   hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
