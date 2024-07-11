@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hey 👋, I'm Sukant Tekade
+# A passionate DEVOPS ENTHUSIAST from Nagpur
+
+- 🌱 I’m currently learning Devops Concepts and Tools , Amazon Web Services (AWS), Java Programming, Bash Scripting
 
 <!--
 **sukant-tekade/Sukant-Tekade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
