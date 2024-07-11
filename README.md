@@ -47,4 +47,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 </div>
 
+---
+
+
+<div align= "center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sukant-tekade&theme=highcontrast&card_width=525" alt="GitHub Streak" /></a></div>
+
+---
 
