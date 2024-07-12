@@ -13,8 +13,8 @@
   <a href="https://www.instagram.com/muschifresser/">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=man&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://github.com/tekadesukant">
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=Github&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
