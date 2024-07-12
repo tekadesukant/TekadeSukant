@@ -56,6 +56,6 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Click here to view the latest post!](https://dev.to/tekadesukant/test-post-hpl)
+- [Click here to view the latest post!](https://dev.to/tekadesukant/)
 <!-- BLOG-POST-LIST:END -->
 ![Latest blog post workflow](https://github.com/tekadesukant/TekadeSukant/actions/workflows/blog-post-workflow.yml/badge.svg)
