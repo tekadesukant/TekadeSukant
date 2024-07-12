@@ -11,7 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "1"
-          feed_list: "https://dev.to/tekadesukant/"
+
+          
