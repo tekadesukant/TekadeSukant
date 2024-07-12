@@ -50,7 +50,7 @@
 ---
 
 
-<div align= "center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sukant-tekade&theme=highcontrast&card_width=525" alt="GitHub Streak" /></a></div>
+<div align= "center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=highcontrast&card_width=525" alt="GitHub Streak" /></a></div>
 
 ---
 
