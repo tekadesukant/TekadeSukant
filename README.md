@@ -54,8 +54,4 @@
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-![Latest blog post workflow](https://github.com/tekadesukant/TekadeSukant/actions/workflows/blog-post-workflow.yml/badge.svg)
+![Recent job workflow status](https://github.com/tekadesukant/TekadeSukant/actions/workflows/blog-post-workflow.yml/badge.svg)
