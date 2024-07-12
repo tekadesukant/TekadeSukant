@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme-with-blog:
     name: Update this repos README with latest blog posts
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
