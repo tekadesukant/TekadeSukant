@@ -10,7 +10,7 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v2
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/itszed0"
