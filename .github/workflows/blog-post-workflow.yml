@@ -1,4 +1,4 @@
-name: Recent job workflow status
+name: Job workflow status
 on:
   schedule:
     # Runs every day
