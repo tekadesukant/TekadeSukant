@@ -54,4 +54,4 @@
 
 ---
 
-![Recent job workflow status](https://github.com/tekadesukant/TekadeSukant/actions/workflows/blog-post-workflow.yml/badge.svg)
+![Job workflow status](https://github.com/tekadesukant/TekadeSukant/actions/workflows/blog-post-workflow.yml/badge.svg)
