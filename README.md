@@ -49,4 +49,3 @@
 
 ---
 
-![Job workflow status](https://github.com/tekadesukant/TekadeSukant/actions/workflows/blog-post-workflow.yml/badge.svg)
