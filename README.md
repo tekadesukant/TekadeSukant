@@ -49,8 +49,4 @@
 
 ---
 
-  <div align="center"><img src="./SukantResume.png" title="Resume"  alt="Resume" width="700px" height="900px"/></div>
-
----
-
 ![Job workflow status](https://github.com/tekadesukant/TekadeSukant/actions/workflows/blog-post-workflow.yml/badge.svg)
