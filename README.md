@@ -49,8 +49,7 @@
 
 ---
 
-
-<div align= "center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=highcontrast&card_width=525" alt="GitHub Streak" /></a></div>
+  <div align="center"><img src="./SukantResume.png" title="Resume"  alt="Resume" width="700px" height="900px"/></div>
 
 ---
 
