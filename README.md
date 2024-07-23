@@ -12,15 +12,16 @@
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 8px;"/>
+  </a>
+   <a href="https://drive.google.com/file/d/1ioBfHA6_kE9xRgqrSsnFcIiJ5fIY0vt8/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=x&logoColor=white" alt="GitHub Badge" style="border-radius: 8px;"/>
   </a>
   <a href="https://www.instagram.com/muschifresser/">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://github.com/tekadesukant">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=Github&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="border-radius: 8px;"/>
   </a>
 </div>
+
 
 ---
 
