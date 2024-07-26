@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tekadesukant&label=Profile%20views&color=0e75b6&style=roun" alt="" /> </p>
+<!-- <p align="center"> <img  src="https://komarev.com/ghpvc/?username=tekadesukant&label=Profile%20views&color=0e75b6&style=roun" alt="" /> </p> -->
 
 ---
 
@@ -36,8 +36,8 @@
 </b>
 
 ---
-
-### :hammer_and_wrench: Languages and Tools :
+<div align="center"> <p><h3> <b> ❄ Tech Stack ❄ </b></h3></p></div>
+&nbsp;
 
 <div align= "center">
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -54,10 +54,19 @@
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" title="Redux" alt="Redux " width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
 </div>
+&nbsp;
+<!--  
+| Linux | Java | Maven | Jenkins | Postgres | SQLite | Plotly | Matpltlib |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="Linux" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Maven" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
+-->
+&nbsp;
+&nbsp;
 
 ---
-
-<!-- Copy-paste in your Readme.md file -->
+<h6>&nbsp;</h6>
+<div align="center"> <p><h3> <b> ❄ Dashboard ❄ </b></h3></p></div>
+&nbsp;
 <div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=59193514" target="_blank" style="display: block" align="center">
   <picture>
@@ -66,10 +75,6 @@
   </picture>
 </a>
 </div>
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
----
-
 
 <!-- 
 <p align="center"><img width="497.5" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=dark" alt="GitHub Streak" />&nbsp; </p> 
@@ -79,13 +84,18 @@
     <img alt="@tekadesukant's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a> -->
-
-| Currently Working On - Last 28 days | Contributors Stack |
-| ----------- | ----------- |
-|<img width="497.5" height="200" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=dark" />|<img width="497.5" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=dark" alt="GitHub Streak" />|
+<h6>&nbsp;</h6>
 
 ---
+&nbsp;
 
+| ❄ Overall Contributors Stack ❄ | ❄ Current Work - Last 28 days ❄ |
+| ----------- | ----------- |
+|<img width="497.5" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=tokyonight&hide_border=true&card_height=210&border_radius=15" />|<img width="497.5" height="200" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=dark" />|
+<h6>&nbsp;</h6>
+
+---
+<h6>&nbsp;</h6>
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
