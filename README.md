@@ -2,15 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="200"/>
 </div>  <!-- another gif : "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFlbzJteHZpcGh3dTRiMGVvMWE2a3I0ZnhuNGI0dGJveDIzM3I5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nYD66ng26rP1WMmXwx/giphy.gif" -->
-<h1 id="header" align="center">
+<h1  align="center">
    &nbsp;&nbsp;<i></i><p><span class="bold">Welcome aboard!</i>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </span</p>
 </h1>
-<div id="badges" align="center">
+<div  align="center">
   <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 5px;"/>
   </a>
@@ -21,17 +21,17 @@
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
 </div>
-<p align="center">  &nbsp; <img  src="https://visitcount.itsvg.in/api?id=tekadesukant&icon=3&color=6" alt="" /> </p>
+
 <!-- <p align="center"> <img  src="https://visitcount.itsvg.in/api?id=tekadesukant&icon=3&color=6" alt="" /> </p> -->
 
 ---
 
 ###  About Me 
-<b align= "justify"> I am Sukant Tekade, a Aspiring AWS Devops Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nagpur, India.
-- :telescope: I'm a recent graduate in Bachelor of Technology degree at Nagpur University with a focus on Information Technology.
+<b align= "justify"> I am `Sukant Tekade`, a `Aspiring AWS Devops Engineer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nagpur, India.
+- :telescope: I'm a recent graduate in `Bachelor of Technology` degree at Nagpur University with a focus on `Information Technology`.
 - :computer: Passionate about the intersection of technology and efficiency, particularly within software development and operations.
-- :gear: Aspiring AWS DevOps Engineer with a solid foundation in DevOps and Amazon Web Services (AWS) concepts.
-- :rocket: Proficient in Java, Object-Oriented Programming, Data Structures & Algorithms, and Computer Networking.
+- :gear: `Aspiring AWS DevOps Engineer` with a solid foundation in `DevOps` and `Amazon Web Services (AWS)` concepts.
+- :rocket: Proficient in `Java, Object-Oriented Programming, Data Structures & Algorithms, and Computer Networking`.
 - :bulb: Keen on applying these competencies to real-world challenges and actively seeking opportunities to contribute knowledge.
 </b>
 
@@ -64,7 +64,7 @@
 &nbsp;
 
 ---
-<h6>&nbsp;</h6>
+
 <div align="center"> <p><h3> <b> ❄ Dashboard ❄ </b></h3></p></div>
 &nbsp;
 <div align="center">
