@@ -91,7 +91,7 @@
 
 | ❄ Overall Contributors Stack ❄ | ❄ Current Work - Last 28 days ❄ |
 | ----------- | ----------- |
-|<img width="497.5" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=tokyonight&hide_border=true&card_height=210&border_radius=15" />|<img width="497.5" height="200" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=dark" />|
+|<img width="497.5" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=tokyonight&hide_border=true&card_height=210&border_radius=15" />|<img width="497.5" height="150" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=dark" />|
 <h6>&nbsp;</h6>
 
 ---
