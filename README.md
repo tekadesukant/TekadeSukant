@@ -22,7 +22,7 @@
   </a>
 </div>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tekadesukant&label=Profile%20views&color=0e75b6&style=roun" alt="" /> </p>
 ---
 
 ### 👨‍💼 About Me :
