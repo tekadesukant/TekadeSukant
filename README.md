@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 8px;"/>
   </a>
-  <a href="https://www.instagram.com/muschifresser/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="border-radius: 8px;"/>
+  <a href="https://www.instagram.com/muschifresser/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=AA336A&style=for-the-badge&logo=instagram&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://drive.google.com/file/d/1ioBfHA6_kE9xRgqrSsnFcIiJ5fIY0vt8/view?usp=sharing">
-    <img src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=man&logoColor=white" alt="GitHub Badge" style="border-radius: 8px;"/>
+  <a href="mailto:tekadesukant@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
 </div>
 
@@ -57,9 +57,32 @@
 
 ---
 
-<p align="center"><img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=highcontrast" alt="GitHub Streak" />&nbsp;<img width="500" height="197" src="https://github-readme-stats.vercel.app/api?username=tekadesukant&show_icons=true&theme=vision-friendly-dark"/></p> 
+<!-- Copy-paste in your Readme.md file -->
+<div align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=59193514" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59193514&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @tekadesukant" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59193514&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+</div>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+---
 
 
+<!-- 
+<p align="center"><img width="497.5" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=dark" alt="GitHub Streak" />&nbsp; </p> 
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=59193514&activity_type=all" target="_blank" style="display: block" align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@tekadesukant's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a> -->
+
+| Currently Working On - Last 28 days | Contributors Stack |
+| ----------- | ----------- |
+|<img width="497.5" height="200" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=dark" />|<img width="497.5" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=tekadesukant&theme=dark" alt="GitHub Streak" />|
 
 ---
 
