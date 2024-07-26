@@ -26,13 +26,13 @@
 ---
 
 ### 👨‍💼 About Me :
-<i><b align= "justify"> I am Sukant Tekade, a Devops Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nagpur, India.
+<b align= "justify"> I am Sukant Tekade, a Devops Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nagpur, India.
 - :telescope: I'm currently pursuing my Bachelor of Technology degree at Nagpur University with a focus on Information Technology.
 - :computer: Passionate about the intersection of technology and efficiency, particularly within software development and operations.
 - :gear: Aspiring DevOps Engineer with a solid foundation in DevOps and Amazon Web Services (AWS) concepts.
 - :rocket: Proficient in Java, Object-Oriented Programming, Data Structures & Algorithms, and Computer Networking.
 - :bulb: Keen on applying these competencies to real-world challenges and actively seeking opportunities to contribute knowledge.
-</b></i>
+</b>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
