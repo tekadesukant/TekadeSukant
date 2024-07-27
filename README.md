@@ -68,10 +68,10 @@
 <div align="center"> <p><h3> <b> ❄ Dashboard ❄ </b></h3></p></div>
 &nbsp;
 <div align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=59193514" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=59193514" target="_blank" style="display: block" align="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59193514&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @tekadesukant" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59193514&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59193514&image_size=auto&color_scheme=dark" width="700" height="auto">
+    <img alt="Dashboard stats of @tekadesukant" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=59193514&image_size=auto&color_scheme=light" width=700" height="auto">
   </picture>
 </a>
 </div>
