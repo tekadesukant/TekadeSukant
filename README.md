@@ -84,10 +84,8 @@
     <img alt="@tekadesukant's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=59193514&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
 </a> -->
-<h6>&nbsp;</h6>
 
 ---
-&nbsp;
 
 | ❄ Overall Contributors Stack ❄ | ❄ Current Work - Last 28 days ❄ |
 | ----------- | ----------- |
