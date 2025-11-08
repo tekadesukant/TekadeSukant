@@ -29,7 +29,7 @@
 <!-- ABOUT -->
 
 <b align="justify">  
-Hello, I am Sukant Tekade, an Aspiring Cloud | DevOps | AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nagpur, India.  
+Hello,  I am Sukant Tekade, an Aspiring Cloud | DevOps | AI Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Nagpur, India.  
 
 -  I'm a `2024 B.Tech graduate` in `Information Technology` from `Nagpur University`.  
 -  I hold multiple professional certifications —  
