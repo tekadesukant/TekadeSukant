@@ -66,7 +66,6 @@
   </tr>
 </table>
 
-<br>
 ---
 <!-- DASHBOARD -->
 <div align="center"> <p><h3> <b> Tech Stack </b></h3></p></div>
