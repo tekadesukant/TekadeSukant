@@ -1,6 +1,6 @@
 <!-- HEADER WAVE -->
 <p align="center">
- <img width="1000" src="coverpic.png" alt=""/>
+ <img width="1000" src="coverpiic.gif" alt=""/>
 </p>
 
 <!-- <p align="center">
