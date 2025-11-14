@@ -8,49 +8,65 @@
 </p> -->
 
 <!-- INTRO GIF --> 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="200"/>
-</div>
+
 <!-- Gif Collection https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif  https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFlbzJteHZpcGh3dTRiMGVvMWE2a3I0ZnhuNGI0dGJveDIzM3I5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nYD66ng26rP1WMmXwx/giphy.gif 
 -->
 <br>
 
-<!-- SOCIAL LINKS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/muschifresser/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=purple&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto:tekadesukant@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=purple&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-<!-- x -->
+<table align="center">
+  <tr align="center">
+    <!-- LEFT SECTION -->
+    <td width="30%" align="center">
+      <!-- INTRO GIF -->
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="150">
+      <br><br>
+      <!-- SOCIAL LINKS -->
+      <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
+        <img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br><br>
+      <a href="https://www.instagram.com/muschifresser/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-30363D?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <br><br>
+      <a href="mailto:tekadesukant@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-30363D?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <!-- RIGHT SECTION -->
+    <td width="80%" valign="top" align="center">
+      <h2>Welcome to My GitHub Profile</h2>
+      <p>
+        I am <strong>Sukant Tekade</strong>, an aspiring <strong>Cloud & AI Engineer</strong> based in Nagpur, India.<br>
+        I focus on building scalable cloud solutions, AI-driven applications, and modern data platforms.
+      </p>
+      <hr>
+      <h3>Education</h3>
+      <p>
+        <strong>B.Tech (2024)</strong> in <strong>Information Technology</strong>
+        Nagpur University
+      </p>
+      <hr>
+      <h3>Global Certifications</h3><i>
+      <ul>
+      AWS Certified Cloud Practitioner (CLF-C02) <br>
+      OCI Generative AI Professional (1Z0-1127-25) <br>
+      OCI Architect Associate (1Z0-1072-25) <br>
+      OCI AI Autonomous DB Professional (1Z0-931-25)  
+      </ul></i>
+      <hr>
+      <h3>Technologies I Work with</h3>
+      <b>Cloud:</b>  <i>AWS, OCI, Azure </i> | 
+      <b>Cloud-Based AI:</b>  <i>OCI Gen AI </i> | 
+      <b>Version Control:</b>  <i>Git, GitHub   </i> | 
+      <b>Communication:</b>  <i>CEFR B2 English Proficiency</i> | 
+      <b>Operating Systems:</b>  <i>RHEL, Ubuntu, Amazon Linux, Windows</i> | 
+      <b>Data Platforms:</b>  <i>Databricks, Delta Lake, Azure Synapse Analytics    </i>      
+    </td>
+  </tr>
+</table>
 
----
-<!-- ABOUT -->
-
-<b align="justify">  
-Hello,  I am Sukant Tekade, an Aspiring Cloud | DevOps | AI Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Nagpur, India.  
-
--  I'm a `2024 B.Tech graduate` in `Information Technology` from `Nagpur University`.  
--  I hold multiple professional certifications —  
-  `1x AWS Certified (Cloud Practitioner – CLF-C02)`,  
-  `2x OCI Certified (Generative AI Professional – 1Z0-1127-25, Architect Associate – 1Z0-1072-25)`, and  
-  `1x Certified English Proficiency (CEFR – Level B2)` — and am an `AWS re/Start Graduate`.  
--  Passionate about leveraging technology to enhance efficiency, automate workflows, and drive innovation across cloud and DevOps ecosystems.  
--  With a solid foundation in `Cloud Computing`, `DevOps principles`, and modern `Software Development Lifecycles`, my expertise includes:  
-  -  Version Control Systems: `Git`, `GitHub`  
-  -  Cloud & AI Solutions: `OCI Generative AI`, `AWS`, `Terraform`  
-  -  Containerization & Orchestration: `Docker`, `Kubernetes`  
-  -  Data & Analytics Platforms: `Databricks`, `Delta Lake`, `Azure Synapse Analytics`, `Data Lake`  
-  -  Operating Systems: `Red Hat Enterprise Linux`, `Ubuntu`, `Amazon Linux`, `Windows`  
-  -  Communication: `Professional English Proficiency (CEFR – Level B2)`    
-</b>
-<!-- x -->
-
+<br>
 ---
 <!-- DASHBOARD -->
 <div align="center"> <p><h3> <b> Tech Stack </b></h3></p></div>
