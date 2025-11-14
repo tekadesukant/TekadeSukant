@@ -53,15 +53,7 @@
       OCI Generative AI Professional (1Z0-1127-25) <br>
       OCI Architect Associate (1Z0-1072-25) <br>
       OCI AI Autonomous DB Professional (1Z0-931-25)  
-      </ul></i>
-      <hr>
-      <h3>Technologies I Work with</h3>
-      <b>Cloud:</b>  <i>AWS, OCI, Azure </i> | 
-      <b>Cloud-Based AI:</b>  <i>OCI Gen AI </i> | 
-      <b>Version Control:</b>  <i>Git, GitHub   </i> | 
-      <b>Communication:</b>  <i>CEFR B2 English Proficiency</i> | 
-      <b>Operating Systems:</b>  <i>RHEL, Ubuntu, Amazon Linux, Windows</i> | 
-      <b>Data Platforms:</b>  <i>Databricks, Delta Lake, Azure Synapse Analytics    </i>      
+      </ul></i>     
     </td>
   </tr>
 </table>
