@@ -48,12 +48,11 @@
       </p>
       <hr>
       <h3>Global Certifications</h3><i>
-      <ul>
       AWS Certified Cloud Practitioner (CLF-C02) <br>
       OCI Generative AI Professional (1Z0-1127-25) <br>
       OCI Architect Associate (1Z0-1072-25) <br>
       OCI AI Autonomous DB Professional (1Z0-931-25)  
-      </ul></i>     
+      </i>     
     </td>
   </tr>
 </table>
