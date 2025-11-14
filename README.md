@@ -37,8 +37,8 @@
     <td width="80%" valign="top" align="center">
       <h2>Welcome to My GitHub Profile</h2>
       <p>
-        I am <strong>Sukant Tekade</strong>, an aspiring <strong>Cloud & AI Engineer</strong> based in <b>Nagpur, India</b>b>.<br>
-        I focus on building scalable <b>cloud solutions, AI-driven applications, data platforms and Quantum Computing</b>b>.
+        I am <strong>Sukant Tekade</strong>, an aspiring <strong>Cloud & AI Engineer</strong> based in <b>Nagpur, India</b>.<br>
+        I focus on building scalable <b>cloud solutions, AI-driven applications, data platforms and Quantum Computing</b>.
       </p>
       <hr>
       <h3>Education</h3>
