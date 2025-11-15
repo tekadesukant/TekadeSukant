@@ -3,14 +3,6 @@
  <img width="1000" src="coverpiic.gif" alt=""/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
-</p> -->
-
-<!-- INTRO GIF --> 
-
-<!-- Gif Collection https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif  https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFlbzJteHZpcGh3dTRiMGVvMWE2a3I0ZnhuNGI0dGJveDIzM3I5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nYD66ng26rP1WMmXwx/giphy.gif 
--->
 <br>
 
 <table align="center">
@@ -19,9 +11,11 @@
     <td width="30%" align="center">
       <!-- INTRO GIF -->
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="150">
-      <br><br>
+<!-- Gif Collection https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif  https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFlbzJteHZpcGh3dTRiMGVvMWE2a3I0ZnhuNGI0dGJveDIzM3I5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nYD66ng26rP1WMmXwx/giphy.gif 
+-->
+   <br><br>
       <!-- SOCIAL LINKS -->
-      <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
+      <a href="https://www.linkedin.com/in/tekadesukant-3343bb252">
         <img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <br><br>
@@ -78,24 +72,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="MySQL" alt="MySQL" width="60" height="100"/>&nbsp;
 &nbsp;
 <!--  
- <div align= "center">
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maven/maven-original.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jenkins/jenkins-original.svg" title="Material UI" alt="Material UI" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tomcat/tomcat-original.svg" title="Flutter" alt="Flutter" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sonarqube/sonarqube-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ansible/ansible-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kubernetes/kubernetes-plain-wordmark.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg" title="Redux" alt="Redux " width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-</div>
+ 
 -->
 &nbsp;
 &nbsp;
