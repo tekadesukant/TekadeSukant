@@ -74,14 +74,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="MySQL" alt="MySQL" width="60" height="100"/>&nbsp;
 &nbsp;
-<!--  
- 
--->
+
 &nbsp;
 &nbsp;
 
 ---
-
 <div align="center"> <p><h3> <b>  Dashboard  </b></h3></p></div>
 &nbsp;
 <div align="center">
